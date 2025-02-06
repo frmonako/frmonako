@@ -1,1 +1,1 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,json,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
